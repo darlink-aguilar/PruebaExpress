@@ -1,0 +1,6 @@
+@PruebaExpress_HostAddress = http://localhost:5132
+
+GET {{PruebaExpress_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
