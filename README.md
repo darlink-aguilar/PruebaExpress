@@ -16,5 +16,3 @@ Este proyecto utiliza una **Arquitectura de Capas Simplificada**. La lógica de 
 * **ORM:** Entity Framework Core (SQL Server & Tools)
 * **Base de Datos:** SQL Server (Transact-SQL)
 * **Documentación:** Swagger / OpenAPI
-4.  **Correr la aplicación:**
-    * Presiona `F5` o dale al botón **Play** en Visual Studio. Se abrirá automáticamente la interfaz de **Swagger** en tu navegador (`https://localhost:.../swagger`) para que puedas probar el CRUD completo.
